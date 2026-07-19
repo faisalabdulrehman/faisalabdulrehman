@@ -21,7 +21,7 @@
 Build scalable, secure, and high-performance web applications with React & Laravel while helping businesses transform ideas into modern digital products.
 
 📫 **Connect with me**
-LinkedIn: https://www.linkedin.com/in/faisal-abdul-rehman-5887b5357/
+LinkedIn: https://www.linkedin.com/in/faisalabdulrehman5/
 
 
 
