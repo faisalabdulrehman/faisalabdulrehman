@@ -62,22 +62,7 @@ React • Vite • JavaScript • React Router • TMDB API • CSS3
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=faisalabdulrehman&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalabdulrehman&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=faisalabdulrehman&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🎯 Currently Focusing On
 
