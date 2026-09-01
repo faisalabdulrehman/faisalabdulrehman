@@ -1,94 +1,70 @@
-<h1 align="center">Hi 👋, I'm Faisal Abdul Rehman</h1>
+# Hi 👋, I'm Faisal Abdul Rehman
 
-<h3 align="center">
-Full-Stack Developer | React • Laravel | Building Fast, Scalable & Modern Web Applications
-</h3>
-
-<p align="center">
-Passionate about creating responsive, scalable, and user-friendly web applications that solve real-world problems.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/faisalabdulrehman/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/faisalabdulrehman">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+### **Full-Stack Developer | React • Laravel • Tailwind CSS**
+*Building Fast, Scalable & User-Centered Web Applications*
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 Full-Stack Developer specializing in **React** & **Laravel**
-- 🌱 Currently learning **Advanced React**, **Laravel**, **REST APIs**, **Database Design**, and **Full-Stack Architecture**
-- 🚀 Interested in building scalable, secure, and high-performance web applications
-- 🤝 Open to internships, freelance projects, and full-time opportunities
-- 📍 Based in Pakistan
+- 💻 **Frontend & Full-Stack Developer** specializing in React, JavaScript, and Tailwind CSS.
+- 🎨 Passionate about **clean, intuitive UI/UX design** over feature-heavy and bloated interfaces.
+- 🚀 Experienced in deploying responsive web apps on **Vercel** with custom background animations and dark mode integration.
+- ⚡ Currently deepening my expertise in **Advanced React, Laravel, REST APIs, and Database Architecture**.
+- 📍 Based in **Rahim Yar Khan, Punjab, Pakistan**.
+- 🤝 Open to **Full-Time Opportunities, Freelance Projects, and Internships**.
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="left">
+**Frontend & Styling:**
+`React` • `JavaScript (ES6+)` • `Tailwind CSS` • `HTML5` • `CSS3` • `Vite` • `GSAP`
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,laravel,git,github,vscode,vite" />
-
-</p>
+**Backend & Tools:**
+`Node.js` • `Laravel` • `Git` • `GitHub` • `Vercel` • `REST APIs` • `Web3Forms`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎬 React Movie App
+### 📱 [Personal Developer Portfolio](https://faisal-portfolio-eight-blush.vercel.app/)
+An interactive, responsive portfolio featuring dynamic canvas backgrounds, dark/light mode toggle, and seamless navigation.
+- **Tech Stack:** React, Vite, Tailwind CSS, Lucide Icons, Web3Forms
+- **Live Demo:** [faisal-portfolio-eight-blush.vercel.app](https://faisal-portfolio-eight-blush.vercel.app/)
 
-A movie discovery web application built with **React**, **Vite**, and the **TMDB API**.
+### 🎮 [GTA VI Landing Page](https://gta-inspired-website-d9sxgt1gq-faisalabdulrehman.vercel.app/)
+An immersive, interactive landing page featuring custom animations, media sections, and modern responsive layouts.
+- **Tech Stack:** React, GSAP, Tailwind CSS, Vite
 
-**Features**
+### 🛍️ [Cara E-Commerce Store](https://cara-ecommerce-lgz9y7uxw-faisalabdulrehman.vercel.app/)
+A full-featured e-commerce web platform showcasing dynamic product listings and collection layouts.
+- **Tech Stack:** HTML5, CSS3, JavaScript
 
-- 🔍 Search movies
-- ❤️ Save favorite movies
-- 💾 Local Storage support
-- ⚡ Fast and responsive interface
-
-**Tech Stack**
-
-React • Vite • JavaScript • React Router • TMDB API • CSS3
-
-**Repository**
-
-🔗 https://github.com/faisalabdulrehman/react-movie-app
+### 🍔 [UrbanBites Restaurant App](https://frontend-urbanbites-restaurant-b7ooi575p-faisalabdulrehman.vercel.app/)
+A modern restaurant frontend interface designed for menu browsing and online food ordering workflows.
+- **Tech Stack:** React, Tailwind CSS, JavaScript
 
 ---
 
-
-
 ## 🎯 Currently Focusing On
 
-- ⚛️ Advanced React
-- 🔥 Laravel
-- 🌐 REST APIs
-- 🔐 Authentication & Authorization
-- 🗄️ Database Design
-- 🏗️ Full-Stack Architecture
-- 🧹 Clean Code & Best Practices
+- ⚛️ **Advanced React Patterns & State Management**
+- 🔥 **Laravel Backend Architecture & Authentication**
+- 🌐 **RESTful API Design & Integration**
+- 🗄️ **Database Optimization & Clean Code Standards**
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/faisalabdulrehman/
-- 💻 GitHub: https://github.com/faisalabdulrehman
+- 💼 **LinkedIn:** [linkedin.com/in/faisalabdulrehman](https://www.linkedin.com/in/faisalabdulrehman/)
+- 💻 **GitHub:** [github.com/faisalabdulrehman](https://github.com/faisalabdulrehman)
+- 📧 **Email:** [faisalarehman5@gmail.com](mailto:faisalarehman5@gmail.com)
+- 🌐 **Portfolio:** [faisal-portfolio-eight-blush.vercel.app](https://faisal-portfolio-eight-blush.vercel.app/)
 
 ---
 
-## 💡 Quote
+> *"Great software isn't just about writing code—it's about solving real problems with simple, user-focused design."*
 
-> **"Great software isn't just about writing code—it's about solving problems and creating value."**
-
----
-
-<p align="center">
-  ⭐ Thanks for visiting my profile! If you like my work, consider starring my repositories.
-</p>
+⭐ **Thanks for visiting my profile!** Feel free to check out my repositories and drop a star if you like the work.
